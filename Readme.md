@@ -10,4 +10,16 @@ O principal objetivo deste repositório é compartilhar soluções de desafios d
 
 Cada desafio será organizado em uma pasta específica dentro do repositório, com o código-fonte, uma breve descrição do problema e a solução. O formato do repositório será o seguinte:
 
-Coding Challenge │ ├── challenge-1/ │ ├── solution.py │ ├── README.md │ └── test_cases.txt │ ├── challenge-2/ │ ├── solution.js │ ├── README.md │ └── test_cases.txt │ └── ...
+Coding Challenge 
+│ 
+  ├── challenge-1/ 
+    ├── challenge-1.csproj 
+    ├── Program.cs 
+    ├── README.md 
+    └── test_cases.txt 
+  ├── challenge-2/ 
+    ├── challenge-2.csproj 
+    ├── Program.cs 
+    ├── README.md 
+    └── test_cases.txt 
+    └── ...
