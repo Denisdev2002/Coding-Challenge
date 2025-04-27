@@ -9,7 +9,7 @@ O principal objetivo deste repositório é compartilhar soluções de desafios d
 ## Estrutura
 
 Cada desafio será organizado em uma pasta específica dentro do repositório, com o código-fonte, uma breve descrição do problema e a solução. O formato do repositório será o seguinte:
-
+````
 Coding Challenge 
 │ 
   ├── challenge-1/ 
