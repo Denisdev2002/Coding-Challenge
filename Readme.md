@@ -23,3 +23,11 @@ Coding Challenge
     ├── README.md 
     └── test_cases.txt 
     └── ...
+`````
+--- 
+
+## Desafios Realizados
+
+- [Build Your Own wc Tool](https://codingchallenges.fyi/): Criar uma versão personalizada da ferramenta Unix `wc` (word count). -> Realizando
+  
+E muitos outros desafios serão adicionados conforme eu for completando.
