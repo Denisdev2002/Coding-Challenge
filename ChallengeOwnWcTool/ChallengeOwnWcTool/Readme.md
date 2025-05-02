@@ -1,4 +1,4 @@
-﻿# ccwc - Sua Ferramenta de Contagem de Palavras Personalizada em C#
+﻿# Ferramenta de Contagem de Palavras em C#
 
 📑Este projeto é uma implementação personalizada da ferramenta de linha de comando Unix `wc` (word count) em C#. Ele permite contar o número de linhas, palavras, bytes e caracteres em arquivos de texto ou a partir da entrada padrão (stdin), com a flexibilidade de exibir um "nome de arquivo" especificado pelo usuário na saída, mesmo quando a entrada é via stdin.
 
