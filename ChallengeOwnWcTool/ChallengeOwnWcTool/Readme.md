@@ -69,4 +69,4 @@ Program: A classe principal com o método Main, responsável por processar os ar
 **Observações sobre a Implementação
 A contagem de palavras usa espaços, tabulações e quebras de linha como delimitadores.
 A contagem de caracteres para entrada padrão utiliza System.Globalization.StringInfo para lidar corretamente com caracteres Unicode.
-O programa prioriza a leitura do conteúdo de um arquivo se um caminho válido for fornecido como o último argumento. Caso contrário, assume entrada padrão e usa o último argumento como o nome a ser exibido.
+O programa prioriza a leitura do conteúdo de um arquivo se um caminho válido for fornecido como o último argumento. Caso contrário, assume entrada padrão e usa o último argumento como o nome a ser exibido.**
