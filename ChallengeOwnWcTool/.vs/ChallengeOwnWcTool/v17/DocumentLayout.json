@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Coding Challenge\\ChallengeOwnWcTool\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A738349-68E8-4009-A8BA-AC9F78A7A284}|ChallengeOwnWcTool\\ChallengeOwnWcTool.csproj|c:\\coding challenge\\challengeownwctool\\challengeownwctool\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3A738349-68E8-4009-A8BA-AC9F78A7A284}|ChallengeOwnWcTool\\ChallengeOwnWcTool.csproj|solutionrelative:challengeownwctool\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A738349-68E8-4009-A8BA-AC9F78A7A284}|ChallengeOwnWcTool\\ChallengeOwnWcTool.csproj|c:\\coding challenge\\challengeownwctool\\challengeownwctool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A738349-68E8-4009-A8BA-AC9F78A7A284}|ChallengeOwnWcTool\\ChallengeOwnWcTool.csproj|solutionrelative:challengeownwctool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Coding Challenge\\ChallengeOwnWcTool\\ChallengeOwnWcTool\\Readme.md",
+              "RelativeDocumentMoniker": "ChallengeOwnWcTool\\Readme.md",
+              "ToolTip": "C:\\Coding Challenge\\ChallengeOwnWcTool\\ChallengeOwnWcTool\\Readme.md",
+              "RelativeToolTip": "ChallengeOwnWcTool\\Readme.md",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAEYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-02T05:32:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Coding Challenge\\ChallengeOwnWcTool\\ChallengeOwnWcTool\\Program.cs",
               "RelativeDocumentMoniker": "ChallengeOwnWcTool\\Program.cs",
               "ToolTip": "C:\\Coding Challenge\\ChallengeOwnWcTool\\ChallengeOwnWcTool\\Program.cs",
               "RelativeToolTip": "ChallengeOwnWcTool\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAI0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T03:32:38.89Z",
               "EditorCaption": ""

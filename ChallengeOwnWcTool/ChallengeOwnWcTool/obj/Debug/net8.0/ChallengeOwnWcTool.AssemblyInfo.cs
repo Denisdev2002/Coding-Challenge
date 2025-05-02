@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChallengeOwnWcTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e6edb39bbdd34a3e51d29d5220b00a8e4884c8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChallengeOwnWcTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChallengeOwnWcTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

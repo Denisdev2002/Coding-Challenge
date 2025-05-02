@@ -1,0 +1,15 @@
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\bin\Debug\net8.0\ChallengeOwnWcTool.exe
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\bin\Debug\net8.0\ChallengeOwnWcTool.deps.json
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\bin\Debug\net8.0\ChallengeOwnWcTool.runtimeconfig.json
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\bin\Debug\net8.0\ChallengeOwnWcTool.dll
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\bin\Debug\net8.0\ChallengeOwnWcTool.pdb
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\obj\Debug\net8.0\ChallengeOwnWcTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\obj\Debug\net8.0\ChallengeOwnWcTool.AssemblyInfoInputs.cache
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\obj\Debug\net8.0\ChallengeOwnWcTool.AssemblyInfo.cs
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\obj\Debug\net8.0\ChallengeOwnWcTool.csproj.CoreCompileInputs.cache
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\obj\Debug\net8.0\ChallengeOwnWcTool.sourcelink.json
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\obj\Debug\net8.0\ChallengeOwnWcTool.dll
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\obj\Debug\net8.0\refint\ChallengeOwnWcTool.dll
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\obj\Debug\net8.0\ChallengeOwnWcTool.pdb
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\obj\Debug\net8.0\ChallengeOwnWcTool.genruntimeconfig.cache
+C:\Coding Challenge\ChallengeOwnWcTool\ChallengeOwnWcTool\obj\Debug\net8.0\ref\ChallengeOwnWcTool.dll
