@@ -67,6 +67,7 @@ OWCTools: Contém os métodos para realizar as operações de contagem (bytes, p
 Program: A classe principal com o método Main, responsável por processar os argumentos da linha de comando, identificar as opções solicitadas e o "nome do arquivo" para a saída, ler a entrada (de arquivo ou stdin), chamar os métodos de contagem e exibir os resultados formatados.
 
 ***Observações sobre a Implementação***
+
 A contagem de palavras usa espaços, tabulações e quebras de linha como delimitadores.
 A contagem de caracteres para entrada padrão utiliza System.Globalization.StringInfo para lidar corretamente com caracteres Unicode.
 O programa prioriza a leitura do conteúdo de um arquivo se um caminho válido for fornecido como o último argumento. Caso contrário, assume entrada padrão e usa o último argumento como o nome a ser exibido.
