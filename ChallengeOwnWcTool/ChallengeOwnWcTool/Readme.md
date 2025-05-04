@@ -5,13 +5,21 @@
 ## Funcionalidades Implementadas
 
 ***Contagem de Linhas (`-l`):*** Exibe o número de linhas (quebras de linha) na entrada.
+
 ***Contagem de Palavras (`-w`):*** Exibe o número de palavras na entrada, delimitadas por espaços, tabulações e quebras de linha.
+
 ***Contagem de Bytes (`-c`):*** Exibe o número de bytes na entrada, utilizando a codificação UTF-8.
+
 ***Contagem de Caracteres (`-m`):*** Exibe o número de caracteres na entrada, contando corretamente caracteres multibyte.
+
 ***Opções Combinadas:*** Suporta a combinação de múltiplas opções em um único argumento (ex: `-lw`).
+
 ***Comportamento Padrão:*** Se nenhuma opção for especificada e um arquivo for fornecido, exibe a contagem de linhas, palavras e bytes.
+
 ***Entrada Padrão (stdin):*** Lê a entrada de texto através do stdin quando nenhum arquivo é especificado ou quando um "nome de arquivo" é fornecido após a opção.
-***"Nome de Arquivo" Personalizado na Saída:*** Permite especificar um texto após a opção que será exibido como o nome do arquivo na saída, mesmo que a entrada seja do stdin.
+
+***"Nome de Arquivo" Personalizado na Saída:*** Permite especificar um texto após a opção que será exibido como o nome do arquivo na 
+saída, mesmo que a entrada seja do stdin.
 
 ## Como Usar
 
